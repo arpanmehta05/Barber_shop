@@ -1,7 +1,3 @@
-Absolutely! Here's an extended version for your GitHub README:
-
----
-
 ### Hair Studio 🌟✂️
 
 Welcome to Hair Studio's GitHub repository! This repository houses the codebase for our vibrant and stylish barber shop website. 💈✨
@@ -31,7 +27,3 @@ Got questions, suggestions, or feedback? Reach out to us!
 - 📧 Email: contact@hairstudio.com
 - 🌐 Website: [www.hairstudio.com/contact]([https://www.hairstudio.com/contact](https://arpanmehta05.github.io/Barber_shop/))
 - 📱 Social Media: Follow us on [Instagram](https://www.instagram.com/hairstudio) and [Facebook](https://www.facebook.com/hairstudio) for updates and styling tips!
-
----
-
-Feel free to customize this content to better reflect your studio's unique vibe, services, and contact information!
